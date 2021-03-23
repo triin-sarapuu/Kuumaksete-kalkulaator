@@ -238,11 +238,10 @@ tr:last-child td {
         flex-direction: column;
     }
     div.service {
-        margin-bottom: 25px;
-        width: 75%;
+        margin: 0 auto 25px auto;
     }
     div.service:last-child {
-        margin-bottom: 0;
+        margin: 0;
     }
     div.inputs, div.values {
         margin: 0 auto;
